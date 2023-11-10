@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FourthRatings
+comment1.params=id\ minimalRaters
+comment1.target=double\ getAverageByID(java.lang.String,\ int)
+numComments=2
